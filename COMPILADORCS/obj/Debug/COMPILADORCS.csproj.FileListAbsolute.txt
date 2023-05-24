@@ -1,0 +1,12 @@
+C:\Users\52866\Desktop\Wero\COMPILADOR\COMPILADORCS\bin\Debug\COMPILADORCS.exe.config
+C:\Users\52866\Desktop\Wero\COMPILADOR\COMPILADORCS\bin\Debug\COMPILADORCS.exe
+C:\Users\52866\Desktop\Wero\COMPILADOR\COMPILADORCS\bin\Debug\COMPILADORCS.pdb
+C:\Users\52866\Desktop\Wero\COMPILADOR\COMPILADORCS\obj\Debug\COMPILADORCS.csprojAssemblyReference.cache
+C:\Users\52866\Desktop\Wero\COMPILADOR\COMPILADORCS\obj\Debug\COMPILADORCS.Properties.Resources.resources
+C:\Users\52866\Desktop\Wero\COMPILADOR\COMPILADORCS\obj\Debug\COMPILADORCS.csproj.GenerateResource.cache
+C:\Users\52866\Desktop\Wero\COMPILADOR\COMPILADORCS\obj\Debug\COMPILADORCS.csproj.CoreCompileInputs.cache
+C:\Users\52866\Desktop\Wero\COMPILADOR\COMPILADORCS\obj\Debug\COMPILADORCS.exe
+C:\Users\52866\Desktop\Wero\COMPILADOR\COMPILADORCS\obj\Debug\COMPILADORCS.pdb
+C:\Users\52866\Desktop\Wero\COMPILADOR\COMPILADORCS\obj\Debug\COMPILADORCS.Compilador.resources
+C:\Users\52866\Desktop\Wero\COMPILADOR\COMPILADORCS\obj\Debug\COMPILADORCS.Login.resources
+C:\Users\52866\Desktop\Wero\COMPILADOR\COMPILADORCS\obj\Debug\COMPILADORCS.Exportar.resources

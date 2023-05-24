@@ -1,0 +1,22 @@
+a ID 0
+
+=Caracter Esp
+
+2Ctes.Enteras0
+
+;Caracter Esp
+
+b ID 1
+
+=Caracter Esp
+
+56Ctes.Enteras1
+
+;Caracter Esp
+
+56.75Ctes.Reales0
+"abcd"Ctes.String0
+
+"abcd"Ctes.String0
+int ID 2
+public ID 3
